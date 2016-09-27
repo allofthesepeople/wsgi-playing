@@ -1,4 +1,4 @@
-run: python-clean
+run: build
 	docker-compose up
 
 build:
